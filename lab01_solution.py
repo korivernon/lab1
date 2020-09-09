@@ -8,15 +8,12 @@ Git, and Gradescope) involved in the course, so the actual programming work of t
 Please be ready to answer any questions that students may have in setting up and dealing with these technologies, and if
 any issues arise, please do not hesitate to get in touch with us via email or Slack!
 
-In terms of the actual programming, it may be a good idea to nudge students towards creating their own functions (if 
+In terms of the actual programming, it may be a good idea to nudge students towards creating their own functions (if
 they have learned them yet), using appropriate Python naming conventions, and documenting their code. When it comes to
 documentation, Professor Reeves wants to push the pre- and post- condition language in the comment block describing
-the function's purpose, so try to push the students to do this! You may use the following solution file as a guide on 
-how to do this, but of course the students can structure their code however helps  them best. Any 
-questions/comments/suggestions/corrections on the following code should go to Sebastián on Slack or to src402@nyu.edu. 
-Thanks everyone <3
-
-    = Sebastián Romero Cruz, Fall 2020
+the function's purpose, so try to push the students to do this! You may use the following solution file as a guide on
+how to do this, but of course the students can structure their code however helps  them best. Any
+questions/comments/suggestions/corrections on the following code should go to Sebastian on Slack or to src402@nyu.edu.
 """
 
 
